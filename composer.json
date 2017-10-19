@@ -8,6 +8,7 @@
             "name": "Tiriel"
         }
     ],
+    "type": "symfony-bundle",
     "require": {
         "php": ">=5.4",
         "symfony/console": "~2.7|~3.0|~4.0",
